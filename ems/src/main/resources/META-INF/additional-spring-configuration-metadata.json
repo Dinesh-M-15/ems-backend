@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "JPA",
+    "type": "java.lang.String",
+    "description": "A description for 'JPA'"
+  },
+  {
+    "name": "MySQL",
+    "type": "java.lang.String",
+    "description": "A description for 'MySQL'"
+  }
+]}
